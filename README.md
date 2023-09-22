@@ -30,13 +30,32 @@ The modeling procedure entails preprocessing the data, splitting it into trainin
 * Top Zip Codes: We've identified the top 5 zip codes for investment, based on our rigorous analysis.
 * Reliable Models: Our time series models, validated by RMSE, are reliable for price predictions.
 * Historical Insights: We've uncovered valuable historical trends to guide investment decisions.
+* Zip Code 48822
+    * Invest: $184,700
+    * 2-Year ROI: 7.20%
+* Zip Code 49309:
+    * Invest: $49,200
+    * 2-Year ROI: 5.24%
+* Zip Code 29645:
+    * Invest: $116,500
+    * 2-Year ROI: 1.44%
+* Zip Code 48835:
+    * Invest: $138,600
+    * 2-Year ROI: 0.01%
+* Zip Code 49265:
+    * Invest: $159,600
+    * 2-Year ROI: -0.48%
 
 ## Recommendation
+* Zip codes 48822, 49309, 29645, and 48835 emerge as prime investment opportunities, boasting promising ROIs and expected property value appreciation over the next two years. We recommend that Fahari seriously consider these options for their investment portfolio. These choices strike a harmonious balance between appealing property prices and lucrative returns on investment, aligning perfectly with Boma Yangu's risk tolerance.
+* Regarding zip code 49265, we advise Fahari to exercise prudence, as it hints at the potential for a negative return on investment.
+
+## Next step
 * Focus on Top 5: Invest significantly in the top 5 zip codes with consistent growth.
 * Diversify Thoughtfully: Diversify investments to manage risk while staying aligned with growth areas.
 * Regular Monitoring: Continuously monitor the market to adapt strategies to evolving conditions.
 * Enrich Data: Enhance predictions by incorporating additional data sources.
 * Mitigate Risk: Implement risk mitigation strategies and contingency plans for market fluctuations.
 
-## Non Technical Presentation
+## Non-Technical Presentation
 To access the canvas slides click on the link [Presentation](https://www.canva.com/design/DAFuUuMXaP4/2NGDxOnn-SgmyIjRGLYKvA/edit?utm_content=DAFuUuMXaP4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
